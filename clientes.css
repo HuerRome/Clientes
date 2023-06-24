@@ -220,6 +220,12 @@ input[type="limpiar"]{
 input[type="limpiar"]:hover {
     background: #890202;
 }
+tr td:last-child input{
+    background: #6300b9; 
+}
+tr td:last-child input:hover {
+    background: #450999;
+}
 .input:focus {
     outline: none;
     box-shadow: 0 2px 4px rgba(5, 0, 97, 0.4);
